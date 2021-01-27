@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48.2442mm" height="61.582mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1926.14 2458.65"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="717" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Montserrat">
+		<font-face-src>
+			<font-face-name name="Montserrat Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="717" d="M553.002 186.999l-390.005 0 -83.9995 -186.999 -77.0006 0 320.003 699.998 73.0003 0 319.997 -699.998 -77.9959 0 -83.9995 186.999zm-27.0003 60.0042l-167.999 375.994 -168.005 -375.994 336.004 0z"/>
+   <glyph unicode="W" horiz-adv-x="1110" d="M1075 699.998l-235.997 -699.998 -78.0023 0 -204.997 596.999 -205.999 -596.999 -77.0006 0 -236.004 699.998 76.0053 0 201.998 -602.001 208.997 602.001 69.0001 0 205.999 -604.999 205.003 604.999 70.997 0z"/>
+   <glyph unicode="X" horiz-adv-x="656" d="M553.002 0l-226 308.002 -225.005 -308.002 -84.9948 0 265.996 360 -249 339.998 85.0012 0 211 -285.998 209.999 285.998 79.9992 0 -247.998 -337.995 266.998 -362.003 -85.9965 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Montserrat";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#B28756}
+    .fil0 {fill:#B28756;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:625.78px;font-family:'Montserrat'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="1046.78,111.64 232.78,925.64 985.5,1678.41 1687.7,976.16 1148.29,436.76 695.86,889.19 1024.81,1218.12 1238.68,1004.24 1123.01,888.57 1012.69,998.9 901.07,887.3 1067.18,721.14 1123.01,665.31 1178.83,721.14 1406.11,948.41 1461.94,1004.24 1406.11,1060.02 1080.58,1385.55 1024.81,1441.38 968.98,1385.55 528.44,945.01 472.61,889.19 528.44,833.36 1092.47,269.33 1148.29,213.5 1204.06,269.33 1855.14,920.39 1910.95,976.16 1855.14,1031.99 1041.33,1845.8 985.5,1901.61 929.67,1845.8 65.36,981.47 9.53,925.64 65.36,869.81 935.17,0 "/>
+  <text x="-1.25" y="2458.65"  class="fil1 fnt0">AWAX</text>
+ </g>
+</svg>
